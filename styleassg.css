@@ -107,14 +107,58 @@ margin-bottom: 0px;
             align-items: center;
             /* margin: 85px; */
         }
-#wellcometitle{
-    width: 842px;
+#wellcomemid-title{
+    width: 642px;
+    height:176px;
     color: #ffffff;
     font-family: Merriweather;
-    font-size: 64px;
+    font-size: 75px;
     font-style: normal;
     font-weight: 900;
     line-height: 88px; /* 137.5% */
     letter-spacing: 7.04px;
-    margin: 1px 80px 30px 20px;
+    margin: 0px 410px 0px 0px;
 }
+.wellcomemid-para{
+    width: 697px;
+    color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 19px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+letter-spacing: 1.3px;
+margin: 0px 0px 90px 0px;
+height: 60px;
+}
+
+#join-btn{
+    font-style:inherit;
+    color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+width: 103px;
+height: 24px;
+margin: 0px 0px 0px 50px;
+
+}
+#icon-twothousend
+            {
+                background-image:url('./resources/Group\ 70.png');
+
+                display: flex;
+                width: 319.83px;
+                height: 464.662px;
+                padding: 0.008px 0px 0px 0px;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                flex-shrink: 0;
+                line-height: 0px;
+            
+            }
